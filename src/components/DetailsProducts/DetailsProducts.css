@@ -1,0 +1,13 @@
+.btn {
+  background-color: blue;
+}
+* {
+  color: rgb(23, 27, 19);
+}
+.IMG {
+  width: 50%;
+  max-width: 12rem;
+}
+.container-info {
+  padding: 4rem;
+}

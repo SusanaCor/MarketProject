@@ -1,0 +1,9 @@
+.btns {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn1 {
+  width: 100px;
+  height: 50px;
+}
